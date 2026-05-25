@@ -5,7 +5,7 @@ import { AuthProvider } from './context/AuthContext'
 import { ThemeProvider } from './context/ThemeContext'
 import PrivateRoute from './components/common/PrivateRoute'
 import Navbar from './components/common/Navbar'
-import DashboardLayout from './components/layout/DashboardLayout' 
+import DashboardLayout from './components/Layout/DashboardLayout'
 import Footer from './components/common/Footer';
 
 
